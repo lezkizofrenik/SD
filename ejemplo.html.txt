@@ -1,6 +1,0 @@
-<html>
-<body>
-Hola mundo
-Hola
-</body>
-</html>
