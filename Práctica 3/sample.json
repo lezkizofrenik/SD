@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3,
+    "cap": 2,
+    "equip": "sdfds, sdfs",
+    "occ": "free"
+  },
+  {
+    "id": 4,
+    "cap": 3,
+    "equip": "dfsdf",
+    "occ": "occupied"
+  }
+]
